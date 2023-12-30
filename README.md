@@ -36,7 +36,7 @@ Feel free to experiment with different text corpora and model hyperparameters to
 ## Author
 Ayush Adhikari
 - GitHub: [github.com/Ayushad5](https://github.com/Ayushad5)
-- Portfolio: [ayushadhikari.info.np](https://www.ayushadhikari.info.np/)
+- Linkedin: [linkedin.com/in/aa-ayushadhikari]([https://www.linkedin.com/in/aa-ayushadhikari/])
 
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
